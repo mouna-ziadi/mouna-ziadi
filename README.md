@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mouna Ziadi</h1>
-<h3 align="center">A Computer Science graduate, Cloud computing Engineering student.</h3>
+<h3 align="center">Cloud & DevOps Engineer | Kubernetes | Docker | Linux | CI/CD with GitLab & Jenkins</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouna-ziadi&label=Profile%20views&color=0e75b6&style=flat" alt="mouna-ziadi" /> </p>
 
 - 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
 
-- 💬 Ask me about **Jenkins,Kubernetes,Ansible,Docker,OpenStack services**
+- 💬 Ask me about **Jenkins,Kubernetes,Ansible,Docker,OpenStack services, Ansible, Docker, Terraform**
 
-- 📫 How to reach me **mouna.ziadi@esprit.tn**
+- 📫 How to reach me **mouna.ziadi.tn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
