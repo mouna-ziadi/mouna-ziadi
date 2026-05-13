@@ -34,7 +34,6 @@
 ```yaml
 name       : Mouna Ziadi
 title      : DevOps & Cloud Engineer
-location   : Tunisie 🇹🇳  —  Disponible France 🇫🇷
 experience : Kubernetes • AWS EKS • Terraform • GitLab CI/CD
 education  : Cycle Ingénieur — Cloud Computing & DevOps (2021-2024)
 languages  : Français 🇫🇷 | Anglais 🇬🇧 | Arabe 🇹🇳
@@ -127,6 +126,25 @@ status     : 🟢 Open to work — ESN France / Remote / CDI
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| [🚀 **DevOps Project End-to-End**]([https://github.com/mouna-ziadi/Devops-Project-End-To-End](https://github.com/mouna-ziadi/devops-end-to-end/tree/main)) | Production-grade DevOps pipeline — from source code to Kubernetes deployment with full GitOps, monitoring, and security scanning | `Kubernetes K3s` `Helm` `Docker Compose` `Docker` `GitLab CI/CD` `Nexus` `SonarQube` `Prometheus` `Grafana` `ArgoCD` `Trivy`|
+| [☁️ **Portfolio Personnel DevOps & Cloud**](https://github.com/mouna-ziadi/GitLab-CICD-Pipelines) | Pipelines automatisées : build, test, déploiement continu | `Python` `Docker` `AWS` `Terraform` `GitHub Actions`
+| [☸️ **Kubernetes deployment — CI/CD Pipeline**]([https://github.com/mouna-ziadi/Kubernetes-Project-End-To-End](https://github.com/mouna-ziadi/devops-kubernetes)) | Production-grade Kubernetes deployment — automated via GitLab CI/CD pipeline with SSH deploy from VM1 to VM2 | `Kubernetes K3s` `Helm` `Docker Compose` `Docker` `GitLab CI/CD` `Trivy` |
+| [🔄 **GitLab CI/CD Pipelines — DevSecOps**](https://github.com/mouna-ziadi/Terraform-InfrastructureAsCode) | End-to-end CI/CD pipelines for a retail management application — self-hosted on Ubuntu VM with GitLab CE. |`Docker` `GitLab CI/CD` `Nexus` `SonarQube` `Trivy` |
+| [🐳 **Docker Compose Deployment — CI/CD Pipeline**]([https://github.com/mouna-ziadi/AWS-Projects-Portfolio](https://github.com/mouna-ziadi/devops-docker-compose)) | Production-grade multi-container deployment using Docker Compose — automated via GitLab CI/CD pipeline with SSH deploy from VM1 to VM2. | `Docker Compose` `Docker` `GitLab CI/CD` `Nexus` `SonarQube` `Trivy` |
+| [🛒 **Retail Management System — Full-Stack**]([https://github.com/mouna-ziadi/AWS-EKS-Project](https://github.com/mouna-ziadi/Retail-Management-System)) | This project is a full-stack retail management system (POS) developed for a real client (small supermarket) | `Spring Boot` `Angular` `Bootstrap` `MySQL` |
+
+</div>
+
+---
+
+---
+
+## 🚀 Projets Épinglés
+
+<div align="center">
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
 | [🔧 **DevOps Project End-to-End**](https://github.com/mouna-ziadi/Devops-Project-End-To-End) | Pipeline CI/CD complète + Kubernetes + Helm + Monitoring Prometheus & Grafana | `Kubernetes` `Helm` `GitLab CI/CD` `Prometheus` `Grafana` |
 | [⚙️ **GitLab CI/CD Pipelines**](https://github.com/mouna-ziadi/GitLab-CICD-Pipelines) | Pipelines automatisées : build, test, déploiement continu | `GitLab CI` `Docker` `Automatisation` |
 | [☸️ **Kubernetes End-to-End**](https://github.com/mouna-ziadi/Kubernetes-Project-End-To-End) | Déploiements, Services, Ingress, ConfigMaps, Secrets, Volumes persistants | `Kubernetes` `k3s` `AWS EKS` `Ingress` |
@@ -135,19 +153,6 @@ status     : 🟢 Open to work — ESN France / Remote / CDI
 | [🚀 **AWS EKS Project**](https://github.com/mouna-ziadi/AWS-EKS-Project) | Déploiement production sur Amazon EKS avec Terraform et Helm | `AWS EKS` `Terraform` `Helm` `Kubernetes` |
 
 </div>
-
----
-
-## 💼 Expérience
-
-**DevOps & Cloud Engineer — Freelance** `2025 – 2026`
-> Conception et livraison d'une application complète de gestion de caisse pour un client réel :
-> Spring Boot / Angular / MySQL → Docker → Kubernetes (k3s → **AWS EKS**) → Terraform → GitLab CI/CD → Prometheus & Grafana
-
-**Stage PFE — Wafacash Tunisie** `2024`
-> Application web Spring Boot / Angular + Pipeline CI/CD + Docker + Kubernetes + Monitoring
-
----
 
 ## 📊 GitHub Stats
 
@@ -161,19 +166,6 @@ status     : 🟢 Open to work — ESN France / Remote / CDI
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouna-ziadi&theme=transparent&ring=f5c400&fire=f5c400&currStreakLabel=f5c400&sideLabels=e2eaf5&currStreakNum=e2eaf5&sideNums=e2eaf5&dates=7a92b0&border=f5c40040" />
 
 </div>
-
----
-
-## 🎓 Formation
-
-| Diplôme | Établissement | Année |
-|---------|--------------|-------|
-| 🎓 **Cycle Ingénieur — Cloud Computing & DevOps** | École Supérieure Privée d'Ingénierie et de Technologies | 2021 – 2024 |
-| 📘 Licence Fondamentale en Informatique de Gestion | Institut Supérieur de Gestion de Tunis | 2018 – 2021 |
-| 📗 Licence Fondamentale en Informatique de Gestion | Université Libre de Tunis | 2017 – 2018 |
-| 📐 Baccalauréat en Mathématique | Lycée Route de la Plage Soliman | 2016 – 2017 |
-
----
 
 <div align="center">
 
