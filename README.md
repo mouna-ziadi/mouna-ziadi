@@ -1,22 +1,16 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════
-     HEADER BANNER
-══════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mouna%20Ziadi&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Ing%C3%A9nieure%20DevOps%20%7C%20CI%2FCD%20%C2%B7%20Kubernetes%20%C2%B7%20IaC%20%C2%B7%20AWS&descAlignY=58&descSize=20"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mouna%20Ziadi&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20CI%2FCD%20%C2%B7%20Kubernetes%20%C2%B7%20IaC%20%C2%B7%20AWS&descAlignY=58&descSize=20"/>
 
-<!-- ══════════════════════════════════════════════
-     TYPING ANIMATION
-══════════════════════════════════════════════ -->
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F5C400&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieure+DevOps+%F0%9F%9A%80;CI%2FCD+%7C+GitLab+%7C+GitHub+Actions+%7C+Jenkins;Kubernetes+K3s+%7C+ArgoCD+GitOps+%7C+Helm;AWS+%7C+Terraform+Associate+004+%7C+IaC;DevSecOps+%E2%80%94+Trivy+%C2%B7+SonarQube+%C2%B7+0+secret+expos%C3%A9;CKA+%E2%80%A2+CKAD+%E2%80%A2+Terraform+Associate+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F5C400&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%F0%9F%9A%80;CI%2FCD+%7C+GitLab+%7C+GitHub+Actions+%7C+Jenkins;Kubernetes+K3s+%7C+ArgoCD+GitOps+%7C+Helm;AWS+%7C+Terraform+Associate+004+%7C+IaC;DevSecOps+%E2%80%94+Trivy+%C2%B7+SonarQube+%C2%B7+Zero+Secrets+Exposed;CKA+%E2%80%A2+CKAD+%E2%80%A2+Terraform+Associate+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════
-     CONTACT BADGES
-══════════════════════════════════════════════ -->
+<!-- CONTACT BADGES -->
 <p>
   <a href="mailto:mouna.ziadi.tn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mouna.ziadi.tn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -37,22 +31,22 @@
 
 ---
 
-## 👩‍💻 À propos de moi
+## 👩‍💻 About Me
 
 ```yaml
 name        : Mouna Ziadi
-title       : Ingénieure DevOps
+title       : DevOps Engineer
 subtitle    : CI/CD · Kubernetes · IaC · AWS
-certifs     : CKA (Fév. 2026) · CKAD (Avr. 2026) · Terraform Associate 004 (Mai 2026)
-education   : Cycle Ingénieur — Cloud Computing & DevOps, ESPRIT (2021–2024)
-location    : Tunisie 🇹🇳  —  Relocation France 🇫🇷 prévue, disponible immédiatement
-languages   : Français B2 🇫🇷 | Anglais B2 🇬🇧 | Arabe natif 🇹🇳
-status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
+certifs     : CKA (Feb. 2026) · CKAD (Apr. 2026) · Terraform Associate 004 (May 2026)
+education   : Engineering Degree — Cloud Computing & DevOps, ESPRIT (2021–2024)
+location    : Tunisia 🇹🇳  —  Relocating to France 🇫🇷, immediately available
+languages   : French B2 🇫🇷 | English B2 🇬🇧 | Arabic (native) 🇹🇳
+status      : 🟢 Open to work — Permanent Role · IT Consulting · Remote France
 ```
 
-> Ingénieure DevOps certifiée **CKA · CKAD · Terraform Associate 004** — 4+ projets end-to-end livrés :
-> pipelines CI/CD (**−90% déploiements manuels**), clusters Kubernetes GitOps ArgoCD/Helm (**RTO < 3 min**),
-> infrastructure AWS/Terraform (**recréation < 3 min**), DevSecOps Trivy · SonarQube (**0 secret exposé**).
+> Certified DevOps Engineer **CKA · CKAD · Terraform Associate 004** — 4+ end-to-end projects delivered:
+> CI/CD pipelines (**−90% manual deployments eliminated**), Kubernetes GitOps clusters via ArgoCD/Helm (**RTO < 3 min**),
+> AWS/Terraform infrastructure (**full rebuild < 3 min**), DevSecOps practices with Trivy · SonarQube (**0 secrets exposed**).
 
 ---
 
@@ -66,26 +60,26 @@ status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
       <a href="https://www.credly.com/badges/a1f5b0cd-47f3-47b6-ae2e-7575a6c72d0a/public_url" target="_blank">
         <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Linux%20Foundation-F%C3%A9v.%202026-326CE5?style=flat-square&logo=linux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux%20Foundation-Feb.%202026-326CE5?style=flat-square&logo=linux&logoColor=white"/>
         <br/><br/>
-        <strong>✅ Voir le badge Credly →</strong>
+        <strong>✅ View Credly Badge →</strong>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/a1f5b0cd-47f3-47b6-ae2e-7575a6c72d0a/public_url" target="_blank">
         <img src="https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20App%20Dev-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/Linux%20Foundation-Avr.%202026-326CE5?style=flat-square&logo=linux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux%20Foundation-Apr.%202026-326CE5?style=flat-square&logo=linux&logoColor=white"/>
         <br/><br/>
-        <strong>✅ Voir le badge Credly →</strong>
+        <strong>✅ View Credly Badge →</strong>
       </a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Terraform%20Associate%20004-HashiCorp%20Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HashiCorp-Mai%202026-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HashiCorp-May%202026-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
       <br/><br/>
-      <strong>🔗 Badge bientôt disponible</strong>
+      <strong>🔗 Badge coming soon</strong>
     </td>
   </tr>
 </table>
@@ -94,7 +88,7 @@ status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -105,12 +99,12 @@ status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### 🐳 Conteneurs & Orchestration
+### 🐳 Containers & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20K3s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ☁️ IaC & Cloud AWS
+### ☁️ IaC & AWS Cloud
 ![Terraform](https://img.shields.io/badge/Terraform%20Associate%20004-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -121,19 +115,19 @@ status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus%20Repository-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
 
-### 📊 Observabilité
+### 📊 Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### 💻 Dev & Scripting
+### 💻 Development & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular%2017%20SSR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ Base de données & OS
+### 🗄️ Database & OS
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -141,33 +135,33 @@ status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
 <div align="center">
 
-| # | Projet | Description | Métriques clés | Stack |
-|---|--------|-------------|----------------|-------|
-| 🥇 | [**Retail Management System — DevOps End-to-End**](https://github.com/mouna-ziadi/Devops-Project-End-To-End) | Solution production complète : pipeline CI/CD Spring Boot + Angular 17 SSR, GitOps ArgoCD/Helm, self-hosted 2 VMs Ubuntu + GitLab CE | **−100% déploiements manuels** · RTO < 3 min · 0 secret exposé · Coût 0 € vs ~200 €/mois | `GitLab CI/CD` `Docker` `K3s` `Helm` `ArgoCD` `SonarQube` `Trivy` `Nexus` `Prometheus` `Grafana` |
-| 🥇 | [**Portfolio DevOps/Cloud — AWS + Terraform**](https://github.com/mouna-ziadi/AWS-Projects-Portfolio) | Infra AWS IaC + pipeline GitHub Actions + Nginx HTTPS/TLS Let's Encrypt + IAM least privilege | Recréation infra **< 3 min** (−93%) · Déploiement **< 2 min** (−90%) · **SSL Labs Grade A** | `Python/Flask` `Docker` `AWS EC2` `AWS ECR` `Terraform` `GitHub Actions` `Nginx` `HTTPS/TLS` |
-| ⚙️ | [**GitLab CI/CD Pipelines — DevSecOps**](https://github.com/mouna-ziadi/GitLab-CICD-Pipelines) | Pipelines multi-stages : build, test, quality gate SonarQube bloquante, scan Trivy CVE, push ECR, déploiement SSH automatisé | −80% déploiements manuels | `GitLab CI/CD` `Docker` `SonarQube` `Trivy` `Nexus` `AWS ECR` |
-| ☸️ | [**Kubernetes End-to-End**](https://github.com/mouna-ziadi/Kubernetes-Project-End-To-End) | Déploiements production complets : Deployments, Services, Ingress, ConfigMaps, Secrets, PVC — GitOps ArgoCD | RTO < 3 min | `Kubernetes K3s` `ArgoCD` `Helm` `Ingress` `GitOps` |
-| 🏗️ | [**Terraform — Infrastructure as Code**](https://github.com/mouna-ziadi/Terraform-InfrastructureAsCode) | Infrastructure AWS complète via Terraform : EC2, ECR, S3, Security Groups, IAM least privilege | Recréation < 3 min | `Terraform` `AWS EC2` `AWS ECR` `S3` `IAM` |
-| 🚀 | [**AWS EKS Project**](https://github.com/mouna-ziadi/AWS-EKS-Project) | Déploiement production sur Amazon EKS avec Terraform, Helm et ArgoCD — monitoring kube-prometheus-stack | Scalabilité ×2.5 | `AWS EKS` `Terraform` `Helm` `ArgoCD` `Prometheus` |
+| # | Project | Description | Key Metrics | Stack |
+|---|---------|-------------|-------------|-------|
+| 🥇 | [**Retail Management System — DevOps End-to-End**](https://github.com/mouna-ziadi/Devops-Project-End-To-End) | Full production pipeline: CI/CD for Spring Boot + Angular 17 SSR, GitOps with ArgoCD/Helm, self-hosted on 2 Ubuntu VMs + GitLab CE | **−100% manual deployments** · RTO < 3 min · 0 secrets exposed · Cost €0 vs ~€200/month | `GitLab CI/CD` `Docker` `K3s` `Helm` `ArgoCD` `SonarQube` `Trivy` `Nexus` `Prometheus` `Grafana` |
+| 🥇 | [**DevOps/Cloud Portfolio — AWS + Terraform**](https://github.com/mouna-ziadi/AWS-Projects-Portfolio) | AWS IaC infrastructure + GitHub Actions pipeline + Nginx reverse proxy with HTTPS/TLS + IAM least privilege | Infrastructure rebuild **< 3 min** (−93%) · Deployment **< 2 min** (−90%) · **SSL Labs Grade A** | `Python/Flask` `Docker` `AWS EC2` `AWS ECR` `Terraform` `GitHub Actions` `Nginx` `HTTPS/TLS` |
+| ⚙️ | [**GitLab CI/CD Pipelines — DevSecOps**](https://github.com/mouna-ziadi/GitLab-CICD-Pipelines) | Multi-stage pipelines: build, test, blocking SonarQube quality gate, Trivy CVE scan, ECR push, automated SSH deployment | −80% manual deployments | `GitLab CI/CD` `Docker` `SonarQube` `Trivy` `Nexus` `AWS ECR` |
+| ☸️ | [**Kubernetes End-to-End**](https://github.com/mouna-ziadi/Kubernetes-Project-End-To-End) | Full production deployments: Deployments, Services, Ingress, ConfigMaps, Secrets, PVC — GitOps with ArgoCD | RTO < 3 min | `Kubernetes K3s` `ArgoCD` `Helm` `Ingress` `GitOps` |
+| 🏗️ | [**Terraform — Infrastructure as Code**](https://github.com/mouna-ziadi/Terraform-InfrastructureAsCode) | Complete AWS infrastructure via Terraform: EC2, ECR, S3, Security Groups, IAM least privilege | Full rebuild < 3 min | `Terraform` `AWS EC2` `AWS ECR` `S3` `IAM` |
+| 🚀 | [**AWS EKS Project**](https://github.com/mouna-ziadi/AWS-EKS-Project) | Production deployment on Amazon EKS with Terraform, Helm and ArgoCD — kube-prometheus-stack monitoring | Scalability ×2.5 | `AWS EKS` `Terraform` `Helm` `ArgoCD` `Prometheus` |
 
 </div>
 
-> 💡 **Pour épingler ces repositories** : allez sur votre profil GitHub → cliquez *Customize your pins* → sélectionnez ces 6 repositories.
+> 💡 **To pin these repositories**: go to your GitHub profile → click *Customize your pins* → select these 6 repositories.
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Professional Experience
 
-**🔧 Développeuse Full-Stack Freelance — Retail Management System** `2025`
-> Application full-stack Spring Boot · Angular · MySQL — 100% besoins client couverts, délai respecté, 0 bug critique en production.
+**🔧 Freelance Full-Stack Developer — Retail Management System** `2025`
+> Full-stack application built with Spring Boot · Angular · MySQL — 100% client requirements met, delivered on time, 0 critical bugs in production.
 
-**🎓 Stage PFE — Ingénieure DevOps · Wafacash, Tunis** `03/2024 – 11/2024`
-> Pipeline CI/CD complet (GitLab · Docker · Kubernetes · SonarQube · Nexus · Prometheus · Grafana) sur datacenter on-premise Ubuntu/VMware.
-> **Résultats : −80% déploiements manuels · Monitoring 100% automatisé.**
+**🎓 Final-Year Internship — DevOps Engineer · Wafacash, Tunis** `03/2024 – 11/2024`
+> End-to-end CI/CD pipeline (GitLab · Docker · Kubernetes · SonarQube · Nexus · Prometheus · Grafana) on an on-premise datacenter running Ubuntu/VMware.
+> **Results: −80% manual deployments · 100% automated monitoring.**
 
 ---
 
@@ -187,28 +181,28 @@ status      : 🟢 Open to work — CDI DevOps · ESN France · Remote
 
 ---
 
-## 🎓 Formation
+## 🎓 Education
 
-| | Diplôme | Établissement | Période |
-|--|---------|--------------|---------|
-| 🎓 | **Cycle Ingénieur — Cloud Computing & DevOps** | École Supérieure Privée d'Ingénierie et de Technologies (ESPRIT), Tunis | 2021 – 2024 |
-| 📘 | Licence Fondamentale — Informatique de Gestion | Institut Supérieur de Gestion de Tunis (ISG) | 2018 – 2021 |
-| 📗 | Licence Fondamentale — Informatique de Gestion | Université Libre de Tunis | 2017 – 2018 |
-| 📐 | Baccalauréat en Mathématique | Lycée Route de la Plage Soliman | 2016 – 2017 |
+| | Degree | Institution | Period |
+|--|--------|-------------|--------|
+| 🎓 | **Engineering Degree — Cloud Computing & DevOps** | École Supérieure Privée d'Ingénierie et de Technologies (ESPRIT), Tunis | 2021 – 2024 |
+| 📘 | Bachelor's Degree — Computer Science & Management | Institut Supérieur de Gestion de Tunis (ISG) | 2018 – 2021 |
+| 📗 | Bachelor's Degree — Computer Science & Management | Université Libre de Tunis | 2017 – 2018 |
+| 📐 | High School Diploma — Mathematics | Lycée Route de la Plage Soliman | 2016 – 2017 |
 
 ---
 
 <div align="center">
 
-### 💬 Langues
+### 💬 Languages
 
-🇫🇷 **Français** — B2 &nbsp;·&nbsp; 🇬🇧 **Anglais** — B2 Professionnel &nbsp;·&nbsp; 🇹🇳 **Arabe** — Langue maternelle
+🇫🇷 **French** — B2 &nbsp;·&nbsp; 🇬🇧 **English** — B2 Professional &nbsp;·&nbsp; 🇹🇳 **Arabic** — Native
 
 ---
 
-### 📫 Me contacter
+### 📫 Get in Touch
 
-**Ouverte aux opportunités — CDI DevOps · Mission ESN France · Remote · Relocation France prévue**
+**Open to opportunities — Permanent DevOps Role · IT Consulting France · Remote · Relocating to France**
 
 <br/>
 
