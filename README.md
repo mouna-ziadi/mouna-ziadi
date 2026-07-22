@@ -80,8 +80,8 @@ A quick snapshot — each repository below has its own detailed README with arch
  
 | Project | Highlights | Stack |
 |---|---|---|
-| 📌 **[Personal Portfolio — DevOps/Cloud AWS](https://github.com/mouna-ziadi/portfolio-devops-aws)** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · 
-| 📌 **[Retail Management System — DevOps End-to-End](https://github.com/mouna-ziadi/devops-end-to-end)** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
+| 🟡 **[Personal Portfolio — DevOps/Cloud AWS](https://github.com/mouna-ziadi/portfolio-devops-aws)** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · 
+| 🟡 **[Retail Management System — DevOps End-to-End](https://github.com/mouna-ziadi/devops-end-to-end)** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
 | 🚀 **[DevOps Kubernetes — Production-Grade K3s](https://github.com/mouna-ziadi/devops-kubernetes)** | GitOps sync < 30s · HPA ×2.5 · 100% monitoring | K3s · Helm · ArgoCD · Prometheus · Grafana |
 | 🔄 **[DevOps CI/CD Pipeline — Spring Boot + Angular](https://github.com/mouna-ziadi/devops-cicd-pipeline)** | 9-stage pipeline · -80% build time · ANSSI-compliant scan | GitLab CI/CD · SonarQube · Docker · Spring Boot · Angular 17 |
 | 🐳 **[DevOps Docker Compose — Multi-container](https://github.com/mouna-ziadi/devops-docker-compose)** | Deploy in 1m41s · 4/4 health checks · 0 secrets exposed | Docker Compose · Spring Boot · Angular SSR · MySQL |
