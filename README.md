@@ -9,7 +9,6 @@ I design and build end-to-end DevOps platforms — CI/CD, GitOps, Infrastructure
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFD60A?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mouna-ziadi.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouna-ziadi-735174241)
 [![Gmail](https://img.shields.io/badge/Email-mouna.ziadi.tn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouna.ziadi.tn@gmail.com)
-[![Location](https://img.shields.io/badge/Based%20in-Tunisia-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
