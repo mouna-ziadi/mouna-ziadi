@@ -6,8 +6,8 @@
 
 I design and build end-to-end DevOps platforms — CI/CD, GitOps, Infrastructure as Code, containerization, observability, and DevSecOps — with a focus on **reliability, security, and automation**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFD60A?style=for-the-badge&logo=googlechrome&logoColor=black)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFD60A?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mouna-ziadi.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouna-ziadi-735174241)
 [![Gmail](https://img.shields.io/badge/Email-mouna.ziadi.tn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouna.ziadi.tn@gmail.com)
 [![Location](https://img.shields.io/badge/Based%20in-Tunisia-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -128,17 +128,6 @@ Full-stack Python/Flask application (MVC · Jinja2 · REST) — technical showca
 `< 200ms response` · `99.9% uptime target` · `100% Python`
 
 **Stack:** Python · Flask · Jinja2 · REST
-
----
-
-## 💼 Recent Experience
-
-- **Full-Stack / DevOps Developer** — Freelance, Tunis *(2025)*
-  Spring Boot / Angular / MySQL application, containerized and deployed via Docker Compose.
-- **DevOps Engineer Intern** — Wafacash, Tunis *(2024)*
-  CI/CD industrialization with GitLab CI/CD, Docker, Kubernetes, SonarQube, and Nexus on an on-premise Linux infrastructure, with Prometheus/Grafana supervision.
-- **DevOps Engineering Intern** — Société Nationale de Distribution des Pétroles (AGIL) *(2023)*
-  Decision-making dashboard (Talend, PostgreSQL, Power BI) with deployment automation via Jenkins and Docker Compose on VMware/Ubuntu.
 
 ---
 
