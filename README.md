@@ -80,14 +80,14 @@ A quick snapshot — each repository below has its own detailed README with arch
  
 | Project | Highlights | Stack |
 |---|---|---|
-| 🟡 **Retail Management System — DevOps End-to-End** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
+| 🟡 **[Retail Management System — DevOps End-to-End](https://github.com/mouna-ziadi/devops-end-to-end)** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
 | 🟡 **DevOps CI/CD Pipeline — Spring Boot + Angular** | 9-stage pipeline · -80% build time · ANSSI-compliant scan | GitLab CI/CD · SonarQube · Docker · Spring Boot · Angular 17 |
 | 🟡 **Personal Portfolio — DevOps/Cloud AWS** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · Docker |
 | ⚙️ **DevOps Kubernetes — Production-Grade K3s** | GitOps sync < 30s · HPA ×2.5 · 100% monitoring | K3s · Helm · ArgoCD · Prometheus · Grafana |
 | ⚙️ **DevOps Docker Compose — Multi-container** | Deploy in 1m41s · 4/4 health checks · 0 secrets exposed | Docker Compose · Spring Boot · Angular SSR · MySQL |
 | ⚙️ **Python Flask Portfolio App — Full-Stack** | < 200ms response · 99.9% uptime target | Python · Flask · Jinja2 · REST |
  
-📂 **[See all pinned repositories on my profile →](#)**
+📂 **[See all pinned repositories on my profile →](https://github.com/mouna-ziadi?tab=repositories)**
 
 ---
 
