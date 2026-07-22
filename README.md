@@ -23,9 +23,9 @@ My projects demonstrate the ability to build **reliable, secure, and highly avai
 
 <div align="center">
 
-| ⚡ 26s | 🔁 < 3 min | 🔒 0 | 💶 €0 |
-|:---:|:---:|:---:|:---:|
-| Deploy on `git push` | Kubernetes RTO | Secrets exposed in CI/CD | AWS infra cost |
+| ⚡ 26s | 🔁 < 3 min | 🔒 0 |
+|:---:|:---:|:---:|
+| Deploy on `git push` | Kubernetes RTO | Secrets exposed in CI/CD |
 
 </div>
 
