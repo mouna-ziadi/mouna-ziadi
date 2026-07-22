@@ -79,8 +79,8 @@ My projects demonstrate the ability to build **reliable, secure, and highly avai
 A quick snapshot — each repository below has its own detailed README with architecture, pipeline breakdown, and setup instructions. 👉 **Full descriptions live in the pinned repositories below**, on my profile.
  
 | Project | Highlights | Stack |
-|----|---|---|
-| ☁️ **[DevOps/Cloud AWS](https://github.com/mouna-ziadi/portfolio-devops-aws)** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · 
+|---|---|---|
+| ☁️ **[DevOps/Cloud — AWS](https://github.com/mouna-ziadi/portfolio-devops-aws)** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · 
 | 🚀 **[DevOps End-to-End](https://github.com/mouna-ziadi/devops-end-to-end)** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
 | 🛠️ **[DevOps Kubernetes](https://github.com/mouna-ziadi/devops-kubernetes)** | GitOps sync < 30s · HPA ×2.5 · 100% monitoring | K3s · Helm · ArgoCD · Prometheus · Grafana |
 | 🔄 **[DevOps CI/CD Pipeline](https://github.com/mouna-ziadi/devops-cicd-pipeline)** | 9-stage pipeline · -80% build time · ANSSI-compliant scan | GitLab CI/CD · SonarQube · Docker · Spring Boot · Angular 17 |
