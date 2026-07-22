@@ -73,60 +73,21 @@ My projects demonstrate the ability to build **reliable, secure, and highly avai
 - 🏅 **CKAD — Certified Kubernetes Application Developer** (CNCF) — *04/2026*
 
 ---
-
+ 
 ## 📌 Featured Projects
-
-### 🟡 [Retail Management System — DevOps End-to-End](https://github.com/mouna-ziadi/devops-end-to-end)
-Complete DevOps platform for a retail application: GitLab CI/CD pipeline with 9 stages (Build → SonarQube → Nexus → Docker → Trivy) and Docker Compose → Kubernetes K3s migration via GitOps ArgoCD. Full Prometheus/Grafana/Alertmanager monitoring stack.
-
-`100% automated` · `RTO < 3 min` · `0 secrets exposed` · `-65% image size` · `-80% build time` · `€0 vs ~€200/month cloud`
-
-**Stack:** GitLab CI/CD · Docker Compose · Kubernetes K3s · Helm · ArgoCD · SonarQube · Nexus 3 · Trivy · Prometheus · Grafana
-
----
-
-### 🟡 [DevOps CI/CD Pipeline — Spring Boot + Angular](https://github.com/mouna-ziadi/devops-cicd-pipeline)
-Full CI/CD pipelines: 5-stage Spring Boot backend + 4-stage Angular 17 SSR frontend, with a blocking SonarQube quality gate. ANSSI-compliant Trivy security scan, shell runner without DinD.
-
-`5 backend stages` · `4 frontend stages` · `-80% build time` · `0 secrets exposed`
-
-**Stack:** GitLab CI/CD · SonarQube · Nexus 3 · Docker · Trivy · Spring Boot 3.4 · Angular 17 SSR · Maven 3.9
-
----
-
-### 🟡 [Personal Portfolio — DevOps/Cloud AWS](https://github.com/mouna-ziadi/portfolio-devops-aws)
-Containerized portfolio deployed on AWS EC2 via Terraform (IaC) — fully automated GitHub Actions CI/CD pipeline (`git push` → production in 26s). HTTPS/TLS via Let's Encrypt, strict IAM least-privilege, infrastructure rebuilt in under 3 minutes.
-
-`Deploy 26s` · `Infra rebuild < 3 min` · `SSL Grade A` · `€0/month (Free Tier)`
-
-**Stack:** Python/Flask · Docker · AWS EC2 · Terraform · GitHub Actions · Nginx · HTTPS/TLS · Let's Encrypt
-
----
-
-### ⚙️ [DevOps Kubernetes — Production-Grade K3s](https://github.com/mouna-ziadi/devops-kubernetes)
-Production K3s deployment with Helm Charts, GitOps via ArgoCD (sync < 30s), HPA auto-scaling ×2.5, and a MySQL 5Gi PersistentVolume. 100% monitoring coverage with a 4-stage pipeline running in 1m16s.
-
-`GitOps < 30s` · `HPA ×2.5` · `RTO < 3 min` · `100% monitoring`
-
-**Stack:** Kubernetes K3s · Helm 3.20 · ArgoCD · GitOps · Ingress Nginx · HPA · Prometheus · Grafana · Alertmanager · Trivy
-
----
-
-### ⚙️ [DevOps Docker Compose — Multi-container](https://github.com/mouna-ziadi/devops-docker-compose)
-4-service stack (Nginx · Spring Boot · Angular SSR · MySQL) following the 12-Factor App pattern with a full health-check chain. 3-stage CI/CD pipeline triggering an automated SSH deployment (VM1 → VM2) in 1m41s.
-
-`1m41s deploy` · `4/4 health checks` · `0 secrets exposed` · `3 stages`
-
-**Stack:** Docker Compose · Nginx · GitLab CI/CD · SSH Deploy · Spring Boot · Angular 17 SSR · MySQL 8 · 12-Factor App
-
----
-
-### ⚙️ [Python Flask Portfolio App — Full-Stack](https://github.com/mouna-ziadi/python-flask-application)
-Full-stack Python/Flask application (MVC · Jinja2 · REST) — technical showcase serving as the application base for the entire DevOps chain. Average response time under 200ms, targeting 99.9% availability on AWS production.
-
-`< 200ms response` · `99.9% uptime target` · `100% Python`
-
-**Stack:** Python · Flask · Jinja2 · REST
+ 
+A quick snapshot — each repository below has its own detailed README with architecture, pipeline breakdown, and setup instructions. 👉 **Full descriptions live in the pinned repositories below**, on my profile.
+ 
+| Project | Highlights | Stack |
+|---|---|---|
+| 🟡 **Retail Management System — DevOps End-to-End** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
+| 🟡 **DevOps CI/CD Pipeline — Spring Boot + Angular** | 9-stage pipeline · -80% build time · ANSSI-compliant scan | GitLab CI/CD · SonarQube · Docker · Spring Boot · Angular 17 |
+| 🟡 **Personal Portfolio — DevOps/Cloud AWS** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · Docker |
+| ⚙️ **DevOps Kubernetes — Production-Grade K3s** | GitOps sync < 30s · HPA ×2.5 · 100% monitoring | K3s · Helm · ArgoCD · Prometheus · Grafana |
+| ⚙️ **DevOps Docker Compose — Multi-container** | Deploy in 1m41s · 4/4 health checks · 0 secrets exposed | Docker Compose · Spring Boot · Angular SSR · MySQL |
+| ⚙️ **Python Flask Portfolio App — Full-Stack** | < 200ms response · 99.9% uptime target | Python · Flask · Jinja2 · REST |
+ 
+📂 **[See all pinned repositories on my profile →](#)**
 
 ---
 
