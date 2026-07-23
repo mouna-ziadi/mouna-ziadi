@@ -71,6 +71,6 @@ My projects demonstrate the ability to build **reliable, secure, and highly avai
 
 ### 🤝 Let's build something reliable, secure, and automated.
 
-📍 Tunisia &nbsp;|&nbsp; 📧 [mouna.ziadi.tn@gmail.com](mailto:mouna.ziadi.tn@gmail.com)
+📧 [mouna.ziadi.tn@gmail.com](mailto:mouna.ziadi.tn@gmail.com)
 
 </div>
