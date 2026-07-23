@@ -91,21 +91,10 @@ A quick snapshot — each repository below has its own detailed README with arch
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's build something reliable, secure, and automated.
 
-📍 Tunisia &nbsp;|&nbsp; 📧 [mouna.ziadi.tn@gmail.com](mailto:mouna.ziadi.tn@gmail.com) &nbsp;|&nbsp; 💼 Open to freelance projects & full-time opportunities
+📍 Tunisia &nbsp;|&nbsp; 📧 [mouna.ziadi.tn@gmail.com](mailto:mouna.ziadi.tn@gmail.com)
 
 </div>
