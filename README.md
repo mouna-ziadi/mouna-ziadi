@@ -67,30 +67,6 @@ My projects demonstrate the ability to build **reliable, secure, and highly avai
 
 ---
 
-## 🎓 Certifications
-
-- 🏅 **CKA — Certified Kubernetes Administrator** (CNCF) — *02/2026*
-- 🏅 **CKAD — Certified Kubernetes Application Developer** (CNCF) — *04/2026*
-
----
- 
-## 📌 Featured Projects
- 
-A quick snapshot — each repository below has its own detailed README with architecture, pipeline breakdown, and setup instructions. 👉 **Full descriptions live in the pinned repositories below**, on my profile.
- 
-| Project | Highlights | Stack |
-|---|---|---|
-| ☁️ **[DevOps/Cloud AWS](https://github.com/mouna-ziadi/portfolio-devops-aws)** | Deploy in 26s · Infra rebuild < 3 min · SSL Grade A · €0/month | Terraform · AWS EC2 · GitHub Actions · 
-| 🚀 **[DevOps End-to-End](https://github.com/mouna-ziadi/devops-end-to-end)** | 100% automated deploys · RTO < 3 min · 0 secrets exposed | GitLab CI/CD · K3s · ArgoCD · SonarQube · Trivy |
-| ☸️ **[DevOps Kubernetes](https://github.com/mouna-ziadi/devops-kubernetes)** | GitOps sync < 30s · HPA ×2.5 · 100% monitoring | K3s · Helm · ArgoCD · Prometheus · Grafana |
-| 🔄 **[DevOps CI/CD Pipeline](https://github.com/mouna-ziadi/devops-cicd-pipeline)** | 9-stage pipeline · -80% build time · ANSSI-compliant scan | GitLab CI/CD · SonarQube · Docker · Spring Boot · Angular 17 |
-| 🐳 **[DevOps Docker Compose](https://github.com/mouna-ziadi/devops-docker-compose)** | Deploy in 1m41s · 4/4 health checks · 0 secrets exposed | Docker Compose · Spring Boot · Angular SSR · MySQL |
-| 📱 **[Python Flask — Full-Stack](https://github.com/mouna-ziadi/python-flask-application)** | < 200ms response · 99.9% uptime target | Python · Flask · Jinja2 · REST |
- 
-📂 **[See all pinned repositories on my profile →](https://github.com/mouna-ziadi?tab=repositories)**
-
----
-
 <div align="center">
 
 ### 🤝 Let's build something reliable, secure, and automated.
