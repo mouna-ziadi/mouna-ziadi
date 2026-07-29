@@ -16,17 +16,7 @@ I design and build end-to-end DevOps platforms — CI/CD, GitOps, Infrastructure
 
 ## 🚀 About Me
 
-I'm a **DevOps & Cloud Engineer**, certified **Kubernetes Administrator (CKA)** and **Kubernetes Application Developer (CKAD)**, passionate about cloud infrastructure, automation, and secure delivery pipelines.
-
-My projects demonstrate the ability to build **reliable, secure, and highly available cloud infrastructures** — with fully automated deployments, a Kubernetes Recovery Time Objective (RTO) below 3 minutes, and CI/CD pipelines integrating code quality, security scanning, and monitoring at every stage.
-
-<div align="center">
-
-| ⚡ 26s | 🔁 < 3 min | 🔒 0 |
-|:---:|:---:|:---:|
-| Deploy on `git push` | Kubernetes RTO | Secrets exposed in CI/CD |
-
-</div>
+💻 I'm a **DevOps & Cloud Engineer**, certified **Kubernetes Administrator (CKA)** and **Kubernetes Application Developer (CKAD)**, passionate about Kubernetes, automation, and building reliable cloud infrastructure. I design and deploy end-to-end DevOps platforms — CI/CD, GitOps, Infrastructure as Code, containerization, and monitoring — with a strong focus on reliability, security, and automation
 
 ---
 
