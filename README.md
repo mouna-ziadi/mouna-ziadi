@@ -2,7 +2,7 @@
 
 # Hi, I'm Mouna Ziadi 👋
 
-### DevOps & Cloud Engineer | Kubernetes · CI/CD · Infrastructure as Code
+### DevOps & Cloud Engineer | Kubernetes · AWS · Terraform
 
 I design and build end-to-end DevOps platforms — CI/CD, GitOps, Infrastructure as Code, containerization, observability, and DevSecOps — with a focus on **reliability, security, and automation**.
 
